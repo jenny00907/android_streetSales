@@ -1,0 +1,10 @@
+Jenny Lee
+CIS 399
+Final Project Proposal
+
+	For the final project, I would like to make a application to shop. When we shop in these days, we not only go to shopping mall to shop around, but also we can surf in the internet to buy everything. Like another applications that make us to shop around, I would like to do some demonstration on shopping application. I would like to make an application so that people can shop around with this application. 
+
+	There will be 2 menus, and each of the menu will be setting and the about menus. For the setting menu, it will provide background choice to choose whether you will want the pink or blue. For the About menu, it will pop the toast, so that it shows the information of the application. 
+	There will be 3 activities, main activity, list activity and cart activity, which main activity shows to choose the see the list or cart and you can put your name. If you go to the list activity, you will see the list of the streets and when it is clicked, it will toast the price and automatically puts into the cart. When you go back to the main activity and go to cart activity, you will see your name, and the total streets price you have clicked in the list activity. When you click to reset, it will proceed to go to the main activity and it will change to the default setting and the first things you have seen  when you start the application. 
+	
+	With making the application for android, I am sure that I will be the better developer to develop android.

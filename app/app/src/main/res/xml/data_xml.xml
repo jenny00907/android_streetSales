@@ -1,0 +1,101 @@
+
+<datainfo>
+    <origin>Prototype data</origin>
+
+    <data>
+        <item>
+            <address>Patterson Street</address>
+            <price>10</price>
+        </item>
+
+        <item>
+            <address>University Street</address>
+            <price>40</price>
+
+
+        </item>
+
+        <item>
+            <address>Alder Street</address>
+            <price>80</price>
+        </item>
+
+        <item>
+            <address>Harris Street</address>
+            <price>100</price>
+
+
+        </item>
+
+        <item>
+            <address>Onyx Street</address>
+            <price>40</price>
+
+
+        </item>
+
+        <item>
+            <address>Agate Street</address>
+            <price>60</price>
+
+
+        </item>
+
+        <item>
+            <address>Villard Street</address>
+            <price>50</price>
+
+
+        </item>
+
+        <item>
+            <address>Orchard Street</address>
+            <price>19</price>
+
+
+        </item>
+
+        <item>
+            <address>Kincaid Street</address>
+            <price>30</price>
+
+
+        </item>
+
+        <item>
+            <address>High Street</address>
+            <price>70</price>
+
+
+        </item>
+
+        <item>
+            <address>Pearl Street</address>
+            <price>120</price>
+
+
+        </item>
+
+        <item>
+            <address>Willamette Street</address>
+            <price>230</price>
+
+
+        </item>
+
+        <item>
+            <address>Friendly Street</address>
+            <price>120</price>
+
+
+        </item>
+
+        <item>
+            <address>Jackson Street</address>
+            <price>30</price>
+
+
+        </item>
+
+    </data>
+</datainfo>

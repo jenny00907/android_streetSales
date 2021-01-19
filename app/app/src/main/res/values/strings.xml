@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">StreetSale</string>
+    <string name="activity_main_title">Welcome to Eugene Street Sale</string>
+    <string name="name">Put your name in here</string>
+    <string name="listing_label">Lists of Streets in Eugene, OR</string>
+    <string name="setting_label">Settings</string>
+    <string name="shop_list">Shop List</string>
+    <string name="cart">Cart</string>
+    <string name="location">Our Location</string>
+    <string name="address">Patterson Street</string>
+
+    <string name="list_title">Lists of Streets in Eugene, OR</string>
+
+
+    <string name="price">Price</string>
+    <string name="price_dollar">$10</string>
+
+    <string name="setting_background_summary">Choose a background color for visibility.</string>
+    <string name="setting_background_title">Background Color</string>
+    <string-array name="background_key">
+        <item>pink</item>
+        <item>blue</item>
+    </string-array>
+
+    <string-array name="background_value">
+        <item>pink</item>
+        <item>blue</item>
+    </string-array>
+
+
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+
+    <string name="cart_price">Overall Price: </string>
+    <string name="cart_origin">0</string>
+    <string name="cart_reset">Reset, go back to home.</string>
+    <string name="cart_label">Cart Total</string>
+    <string name="cart_name">Your name here</string>
+
+
+</resources>
